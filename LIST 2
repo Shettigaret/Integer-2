@@ -1,0 +1,3 @@
+a=(12,14,-95,3)
+b= list(filter(lamba x:(x>=0),a) 
+print(b)
